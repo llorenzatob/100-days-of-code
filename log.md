@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Janyary 03, 2017 
+### Day 0: January 03, 2017 
 
 
 **Today's Progress**: I added a navbar to my project and started creating the posts on node.js
