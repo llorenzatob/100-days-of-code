@@ -26,3 +26,20 @@ But I know that there are many, many days to go. I'm making progress!
 
 **Link to work:** [ToDoIst do Raryson](https://todolistrarysonvai.herokuapp.com/)
 
+### Day 2: January 05, 2017 
+
+
+**Today's Progress**: Today I started studying about RestAPIS
+
+**Thoughts:** Today I discovered + - how useful a REST API can be, how much it is needed in today's service systems, since you need to talk to any programming language.
+
+But of code what I did was a RestAPI server that returns information from a shopping cart by ID.
+
+I also developed a ClientSide that searches for this cart and registers new products, if anyone wants to see this one:
+
+Https://github.com/raryson/RestAPI
+
+But how I'm feeling, I'm a bit tired, I think it's too much focus, but I'm enjoying all this coding too much and learning a lot!
+
+**Link to work:**: Https://github.com/raryson/RestAPI
+
