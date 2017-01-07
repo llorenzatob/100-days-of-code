@@ -43,3 +43,16 @@ But how I'm feeling, I'm a bit tired, I think it's too much focus, but I'm enjoy
 
 **Link to work:**: Https://github.com/raryson/RestAPI
 
+
+### Day 3: January 06, 2017 
+
+
+**Today's Progress**: Today I did a few things on the coding issue, but in general issues, I had a leftist lecture on REST APIS and I understood that REST is nothing more than good practices for a server.
+
+**Thoughts:** Today I made a grouper that redirects my domain to the various projects I did, basically HTML, JavaScript and CSS. But this legal, was responsive and has perspective of future.
+
+I enjoyed my job
+
+**Link to work:**: Https://raryson.tk
+
+
