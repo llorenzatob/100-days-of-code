@@ -56,3 +56,16 @@ I enjoyed my job
 **Link to work:**: Https://raryson.tk
 
 
+### Day 4: January 10, 2017 
+
+
+**Today's Progress**: Today I started studying ASP.NET Core!
+
+**Thoughts:** Today I learned a lot of Core commands, I learned to use EM and CLI, I managed to upload a WEB application, create controllers, use data, create Models, move to a View.
+
+I'm feeling good with the study of ASP.NET Core!
+
+I enjoyed my job
+
+**Link to work:**: https://github.com/raryson/CoreApp
+
